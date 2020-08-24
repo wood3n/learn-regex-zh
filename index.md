@@ -1,7 +1,4 @@
-<br/>
-<p align="center">
-<img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
-</p><br/>
+> this page was forked from [GitHub - cdoco/learn-regex-zh](https://github.com/cdoco/learn-regex-zh)!
 
 ## 什么是正则表达式 ？
 
@@ -380,10 +377,6 @@
 * Report issues
 * Open pull request with improvements
 * Spread the word 
-
-## License
-
-MIT © [Zeeshan Ahmed](mailto:ziishaned@gmail.com)
 
 ---
 
