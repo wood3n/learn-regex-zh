@@ -1,5 +1,3 @@
-> this page was forked from [GitHub - cdoco/learn-regex-zh](https://github.com/cdoco/learn-regex-zh)!
-
 ## 什么是正则表达式 ？
 
 > 正则表达式是一种被用于从文本中检索符合某些特定模式的文本。
